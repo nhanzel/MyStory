@@ -4,7 +4,7 @@
     </div>
     <div>
         <h1>Schooling</h1>
-        <p> - I started school in 2018 after graduating high school and I loved it! UVU has been a great example of
+        <p> - I started school in 2018 after graduating high school and I loved it! UVU is a great example of
             <span class="bolded">eustress</span>.
         </p>
         <p> - I have always been very studious, and all of the subjects that I have taken so far have been interesting

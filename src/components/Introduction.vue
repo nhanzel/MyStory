@@ -5,7 +5,8 @@
     <p> - My name is <span class="bolded">Nathan Hanzel</span>, and I was born in Boise, Idaho before moving to Oregon
       when I was one year old. I lived in Oregon for 6 years and to this day it remains my happy place. Anywhere on the
       West Coast makes me happy (my parents currently live in San Francisco).</p>
-    <p> - I have three siblings and two sibling-in-laws who all live in Utah.</p>
+    <p> - My family moved to Utah when I was 7, and I have three siblings and two sibling-in-laws who all still live in
+      Utah.</p>
     <p> - I am a CS Major with one year left (fingers crossed I don't fail any classes), and I decided what better way
       to share my story than with a custom website!</p>
   </div>

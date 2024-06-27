@@ -6,8 +6,8 @@
     <h1>My Deconstruction</h1>
     <p> - I grew up in the Mormon Church, and while many have negative experiences with the church, I enjoyed going
       every Sunday and hanging out with my friends.</p>
-    <p> - However, as I looked into the history of the church I came to realize I didn't believe in the doctrine of the
-      church. I kept up appearances until I was 18, but once I moved out on my own I left the church.</p>
+    <p> - However, as I looked into the history of the church I came to realize I didn't believe in the doctrine. I kept
+      up appearances until I was 18, but once I moved out on my own I left the church.</p>
     <p> - I can't think of a better example of <span class="bolded">eustress</span> in my life than my deconstruction. I
       went through years of stress and anxiety over my decision and my family dynamics were stretched. However, I have
       come out stronger on the other side. I have a new perspective on my life, the people in it, and treating everyone
